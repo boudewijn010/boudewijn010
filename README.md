@@ -1,7 +1,7 @@
 # Hey, I'm Boudewijn 👋
 
-Computer Science student & co-founder of [Shoporia](https://github.com/shoporia), based in New York.  
-I build things for the web, mobile, and sometimes Roblox.
+Computer Science student 
+I build things for the web and mobile.
 
 ---
 
