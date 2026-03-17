@@ -8,7 +8,7 @@ I'm a passionate developer focused on building practical and user-friendly appli
 
 🛒 A webshop project using PHP (MVC architecture)
 
-🎮 A Roblox game with Lua scripting (teleport systems & world spawns)
+🎮 A Roblox game with Lua scripting
 
 💻 Tech Stack
 
