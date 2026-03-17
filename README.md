@@ -7,11 +7,8 @@ I build things for the web, mobile, and sometimes Roblox.
 
 ## About Me
 
-- 🎓 Studying Computer Science in New York
-- 🛍️ Co-founder of **Shoporia** — an e-commerce platform
-- 🏋️ Gym 3x a week
+- 🎓 Studying Computer Science in Rotterdam
 - 🎮 Gamer in my free time
-- 🌍 Originally from Rotterdam, NL
 
 ---
 
@@ -21,7 +18,6 @@ I build things for the web, mobile, and sometimes Roblox.
 |--------|-------------|-------|
 | **Shoporia** | E-commerce webshop | PHP, MySQL, MVC |
 | **Workout Tracker** | Desktop sport & workout tracking app | React |
-| **Roblox Game** | Multiplayer game with custom spawn logic | Lua |
 
 ---
 
