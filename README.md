@@ -1,27 +1,37 @@
-# Hey, I'm Boudewijn 👋
+👋 Hi, I'm Boudewijn
 
-Computer Science student 
-I build things for the web and mobile.
+I'm a passionate developer focused on building practical and user-friendly applications. I enjoy turning ideas into real products and continuously improving my skills in both frontend and backend development.
 
----
+🚀 What I'm working on
 
-## About Me
+🏋️ A Workout Tracker App (React + MySQL)
 
-- 🎓 Studying Computer Science in Rotterdam
-- 🎮 Gamer in my free time
+🛒 A webshop project using PHP (MVC architecture)
 
----
+🎮 A Roblox game with Lua scripting (teleport systems & world spawns)
 
-## Projects
+💻 Tech Stack
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **Shoporia** | E-commerce webshop | PHP, MySQL, MVC |
-| **Workout Tracker** | Desktop sport & workout tracking app | React |
+Frontend: React, HTML, CSS, JavaScript
 
----
+Backend: PHP, MySQL (XAMPP / phpMyAdmin)
 
+Other: Lua (Roblox), Git, GitHub
 
-## GitHub Stats
+📈 Goals
 
-![Boudewijn's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true](https://github.com/boudewijn010))
+Build scalable full-stack applications
+
+Improve my software architecture skills
+
+Launch real-world projects (like my webshop 🚀)
+
+🧠 Currently learning
+
+Advanced React patterns
+
+Backend optimization & database design
+
+🤝 Let's connect
+
+I'm always open to collaboration, feedback, or new ideas!
