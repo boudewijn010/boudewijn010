@@ -16,7 +16,7 @@ Frontend: React, HTML, CSS, JavaScript
 
 Backend: PHP, MySQL (XAMPP / phpMyAdmin)
 
-Other: Lua (Roblox), Git, GitHub
+Other: Git, GitHub
 
 📈 Goals
 
