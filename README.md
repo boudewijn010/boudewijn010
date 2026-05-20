@@ -4,15 +4,6 @@
 
 ---
 
-## 🚀 What I'm Building
-
-| Project | Stack | Status |
-|--------|-------|--------|
-| 🏋️ **Workout Tracker App** | React + MySQL | In progress |
-| 🛒 **Webshop** | PHP (MVC) + MySQL | In progress |
-
----
-
 ## 💻 Tech Stack
 
 **Frontend**
